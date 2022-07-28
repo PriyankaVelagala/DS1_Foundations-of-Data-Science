@@ -1,7 +1,10 @@
 # DS1: Analysis of World Happiness Report 
-Quan Bui, Sarah Hadlow, Mahdia Khan, Priyanka Velagala, Yujin Yang
+Final project for DS1-Foundation for Data Science  (University of Waterloo-Data Science Certificate)
 
 For full report, see: [Happiness Report - Analysis & Findings.pdf](https://github.com/PriyankaVelagala/DS1_Foundations-of-Data-Science/blob/main/Group%2029%20-Happiness%20Report%20-%20Analysis%20%26%20Findings.pdf)
+
+Quan Bui, Sarah Hadlow, Mahdia Khan, Priyanka Velagala, Yujin Yang
+
 
 # Overview 
 Our dataset, the World Happiness report ranks countries based on their level of happiness. The report uses a survey conducted by the Gallup World Poll that asks a question, known as the Cantril ladder, where participants rank their own lives on a scale of 0 to 10, where the two extremes represent the worst and the best possible lives they can imagine for themselves, respectively. The report also provides a breakdown of the influence of the following six factors - Economy, Family, Health (Life Expectancy), Freedom, Government Trust (Corruption) and  Generosity and their contribution to the overall Happiness Score. 
