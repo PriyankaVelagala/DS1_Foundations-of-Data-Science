@@ -1,4 +1,4 @@
-# World Happiness Report 
+# Analysis of World Happiness Report 
 Quan Bui, Sarah Hadlow, Mahdia Khan, Priyanka Velegala, Yujin Yang
 
 For full report, see: [Happiness Report - Analysis & Findings.pdf](https://github.com/PriyankaVelagala/DS1_Foundations-of-Data-Science/blob/main/Group%2029%20-Happiness%20Report%20-%20Analysis%20%26%20Findings.pdf)
